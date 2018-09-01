@@ -1,0 +1,52 @@
+{
+"basics":{
+  "photo":"download.png",
+  "name":"B.Prasuna",
+  "phone":"6666666666",
+  "email":"nagasvit2017@gmail.com"
+},
+"skills":[
+  {
+  "name":"Programming languages",
+  "value":"C,C++,JAVA"
+},
+  {
+"name":"Operating Systems",
+"value":"Windows,Linux"
+},
+{
+  "name":"Web technologies",
+  "value":"Html,JavaScript,Css"
+}
+],
+"education":[
+  {
+    "course":"B.Tech(computer science and engineering)",
+    "college":[
+      "sri venkateshwara institute of technology",
+      "2015-2019",
+      "65%"
+    ]
+  },
+  {
+    "course":"Intermediate(M.P.C)",
+    "college":[
+      "sri chaitanya junior college",
+      "2013-2015",
+      "65%"
+  ]
+},
+{
+"course":"ssc",
+"college":[
+  "Z.P.High School",
+  "2012-2013",
+  "65%"
+]
+}
+],
+"carrier":{
+  "para":"The carrier objective,summaary satetement&profile is the first advertisement of my skills & expertise that a hiring manger will see"
+
+}
+}
